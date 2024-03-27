@@ -4,10 +4,10 @@ import requests
 from datetime import datetime
 
 # Telegram Bot Token
-TOKEN = "6463194081:AAGnNHX9S6Tlnc2sm4Prx9St-rZmOOsbTxk"
+TOKEN = "BNB"
 
 # BscScan API Key
-API_KEY = "MINPWU6K928WSQI1HSVP7QPGMVC6C81FUQ"
+API_KEY = "BNB"
 
 # Dictionary to store user addresses
 user_addresses = {}
