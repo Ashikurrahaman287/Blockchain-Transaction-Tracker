@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 
 # Telegram Bot Token
-TOKEN = "spudblocks.com LOL (Put Yours"
+TOKEN = "spudblocks.com LOL (Put Yours)"
 
 # BscScan API Key
 API_KEY = "NONE"
