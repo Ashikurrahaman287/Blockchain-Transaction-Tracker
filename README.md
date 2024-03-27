@@ -28,9 +28,6 @@ This Telegram bot allows users to receive notifications for transactions on the 
 
 Contributions to the project are welcome. Feel free to open issues, submit pull requests, or suggest improvements.
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ### Disclaimer
 
